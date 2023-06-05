@@ -1,0 +1,65 @@
+#main-title {
+    color: white;
+    padding: 20px;
+}
+
+.bg-photo {
+    background-image: url(../../public/img/bg-masthead.jpg);
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-name {
+    text-align: center;
+    font-size: 50px;
+}
+
+.my-bio {
+    text-align: center;
+    font-size: 20px;
+    color: white;
+}
+
+.my-avatar {
+display: flex;
+margin-left: 250px;
+}
+
+.portfolio-item {
+    margin: 20px;
+    justify-content: center;
+
+}
+
+.portfolio-block {
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+.project-photo:hover {
+    opacity: 65%;
+}
+
+.form-label {
+    color: white;
+}
+
+.contact-welcome {
+    margin-bottom: 30px;
+}
+
+.resume-area {
+    justify-content: center;
+    align-items: center;
+}
+
+#dark-footer {
+    background-color: #363636;
+    color: white;
+}
+
+#git-link:hover {
+    color:cornflowerblue;
+}
